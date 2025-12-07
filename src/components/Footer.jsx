@@ -25,8 +25,7 @@ export default function Footer() {
               <span className="text-2xl font-bold text-white">ShopHub</span>
             </div>
             <p className="max-w-md">
-              Your gateway to knowledge and skill development. Learn anytime,
-              anywhere.
+              Your gateway to effortless shopping. Buy anytime, anywhere.
             </p>
           </div>
 
@@ -177,10 +176,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="border-t border-gray-800 pt-6 text-center">
-          <p>
-            &copy; {new Date().getFullYear()} LearnHub. All rights reserved.
-          </p>
-          <p className="mt-2 text-sm">Made with ❤️ for learners worldwide</p>
+          <p>&copy; {new Date().getFullYear()} ShopHub. All rights reserved.</p>
         </div>
       </div>
     </footer>
